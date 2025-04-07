@@ -1,0 +1,33 @@
+.hero {
+  background-image: url('your-beautiful-image-url.jpg');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+
+.hero-content h1 {
+  font-size: 4rem;
+  animation: fadeIn 3s ease-in-out;
+}
+
+.proposal-btn {
+  padding: 15px 25px;
+  font-size: 1.5rem;
+  background-color: #ff4081;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
