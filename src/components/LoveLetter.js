@@ -35,7 +35,11 @@ const LoveLetter = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
- 
+      My Chubby-Cheeks Thingarbuchi 😛💞,<br /><br />
+
+First of all — stop being this adorable, I’m running out of ways to act normal. 😵‍💫<br />
+Your long hair deserves a national award — it’s like my personal curtain to peek from and smile like an idiot. 🫣<br /><br />
+
 Your earrings? Yeah, those cute dangly assassins — they distracted me so much I forgot what I was saying mid-convo. 😳<br />
 And your eyes? I swear they’ve subscribed to “Make Him Blush Daily” newsletter. 😍<br /><br />
 
