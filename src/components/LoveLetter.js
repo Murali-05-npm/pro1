@@ -35,14 +35,13 @@ const LoveLetter = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
-My Thingarbuchi🫣,<br></br>
+      My Chubby-Cheeks Thingarbuchi 😛💞,<br /><br />
 
- Your eyes👀 made fell for you is  they are eyes are Mangnets🤌🏻<br></br>
- , the one who will forever remain in my heart.<br></br>
-  VAISHUUU 👸🏻💘 <br></br>
-Yours always,
-Solivagant  <br />   ,<br />
-     GUTS❤️‍🔥   ,<br />
+First of all — stop being this adorable, I’m running out of ways to act normal. 😵‍💫<br />
+Your long hair deserves a national award — it’s like my personal curtain to peek from and smile like an idiot. 🫣<br /><br />
+
+Your earrings? Yeah, those cute dangly assassins — they distracted me so much I forgot what I was saying mid-convo. 😳<br />
+And your eyes? I swear they’ve subscribed to “Make Him Blush Daily” newsletter. 😍<br /><br />
 
       </div>
       <audio ref={audioRef} src={audioFile} onError={(e) => console.error('Audio error:', e.message)} />
