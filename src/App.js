@@ -1,22 +1,10 @@
-// src/App.js
-import React from 'react';
+import LoveLetter from './components/LoveLetter';
 import './App.css';
-
-// Components
-import Hero from './components/Hero';
-import OurStory from './components/OurStory';
-import Gallery from './components/Gallery';
-import Proposal from './components/Proposal';
-import Contact from './components/Contact';
 
 function App() {
   return (
     <div className="App">
-      <Hero />
-      <OurStory />
-      <Gallery />
-      <Proposal />
-      <Contact />
+      <LoveLetter />
     </div>
   );
 }
