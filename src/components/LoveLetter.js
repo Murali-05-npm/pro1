@@ -37,10 +37,9 @@ const LoveLetter = () => {
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
       My Chubby-Cheeks Thingarbuchi 😛💞,<br /><br />
 
- 
 
-Your earrings? Yeah, those cute dangly assassins — they distracted me so much I forgot what I was saying mid-convo. 😳<br />
-And your eyes? I swear they’ve subscribed to “Make Him Blush Daily” newsletter. 😍<br /><br />
+
+ 
 
 
 Honestly, if Studio Ghibli made a movie about us, it’d be called:<br />
